@@ -5,3 +5,8 @@
 # Printables: Open in OrcaSlicer
 
 A simple userscript to replace the "Open in PrusaSlicer"-buttons with "Open in OrcaSlicer"-buttons.
+
+
+## Installation
+Install a userscripts extension in your browser like Greasemonkey or UserScripts, then add this script as user script:
+<https://raw.githubusercontent.com/KizzyCode/Printables-OpenInOrcaSlicer-UserScript/refs/heads/master/src/OpenInOrcaSlicer.js>
