@@ -3,6 +3,7 @@
 // @description Replaces the "prusaslicer://open?file="-URLs with OrcaSlicer compatible URLs
 // @match       https://www.printables.com/model/*
 // @license     BSD-2-Clause OR MIT
+// @version     1.0.0
 // @downloadURL https://raw.githubusercontent.com/KizzyCode/Printables-OpenInOrcaSlicer-UserScript/refs/heads/master/src/OpenInOrcaSlicer.js
 // @updateURL   https://raw.githubusercontent.com/KizzyCode/Printables-OpenInOrcaSlicer-UserScript/refs/heads/master/src/OpenInOrcaSlicer.js
 // ==/UserScript==
